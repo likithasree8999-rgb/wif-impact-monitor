@@ -55,7 +55,7 @@ p, span, label, div, li, h1, h2, h3, h4, h5, h6,
 .hero-img { width:100%; height:420px; object-fit:cover; object-position:center 40%; display:block; filter:brightness(0.65) saturate(0.9); }
 .hero-img-short { width:100%; height:300px; object-fit:cover; object-position:center 30%; display:block; filter:brightness(0.65) saturate(0.9); }
 .hero-overlay { position:absolute; inset:0; background:linear-gradient(135deg, rgba(13,46,30,0.65) 0%, rgba(13,46,30,0.25) 60%, rgba(13,46,30,0.55) 100%); }
-.hero-content { position:absolute; bottom:0; left:0; right:0; padding:32px 48px 38px; }
+.hero-content { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); width:90%; text-align:center; padding:32px 48px; }
 .hero-eyebrow { display:inline-block; background:rgba(200,169,110,0.15); border:1px solid rgba(200,169,110,0.35); color:#c8a96e !important; padding:5px 16px; border-radius:20px; font-size:0.65rem; font-weight:700; letter-spacing:2px; text-transform:uppercase; margin-bottom:14px; }
 .hero-title { font-family:'Playfair Display',serif; font-size:2.8rem; font-weight:900; line-height:1.1; color:#f5f0e8 !important; margin-bottom:10px; text-shadow:0 2px 20px rgba(0,0,0,0.5); }
 .hero-title span { color:#6db88a !important; }
@@ -71,7 +71,7 @@ p, span, label, div, li, h1, h2, h3, h4, h5, h6,
 .photo-card { border-radius:14px; overflow:hidden; position:relative; margin-bottom:12px; }
 .photo-card img { width:100%; height:220px; object-fit:cover; display:block; filter:brightness(0.85) saturate(0.95); transition:filter 0.3s; }
 .photo-card:hover img { filter:brightness(0.88) saturate(1); }
-.photo-card-label { position:absolute; bottom:0; left:0; right:0; padding:16px; background:linear-gradient(to top, rgba(13,46,30,0.92), transparent); }
+.photo-card-label { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); width:90%; text-align:center; padding:32px;; background:linear-gradient(to top, rgba(13,46,30,0.92), transparent); }
 .photo-card-title { font-family:'Playfair Display',serif; font-size:0.95rem; font-weight:700; color:#f5f0e8 !important; margin-bottom:3px; }
 .photo-card-sub { font-size:0.68rem; color:rgba(245,240,232,0.5) !important; }
 

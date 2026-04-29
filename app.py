@@ -165,7 +165,7 @@ with st.sidebar:
         🌐 worldviewusa.org<br>🌿 wif.foundation<br>✅ Verra VCS Verified<br><br>
         <div style="color:rgba(245,240,232,0.22);font-size:0.6rem;">UN FAO Recognized · 46 Years · 6 Countries</div>
     </div>
-    <div class="sb-foot">Built by Likitha Sree Yarabarla<br><span style="color:#4a9e6b;">linkedin.com/in/likitha-sree</span></div>""", unsafe_allow_html=True)
+    <div class="sb-foot">Worldview Development USA<br><span style="color:#4a9e6b;">worldviewusa.org</span></div>""", unsafe_allow_html=True)
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -453,10 +453,8 @@ elif "Community" in page:
 
 st.markdown(f"""
 <div class="ft">
-    Built by <b>Likitha Sree Yarabarla</b> · Analytics Engineer · Climate Data Infrastructure<br>
-    Supporting Worldview Development USA & Worldview International Foundation<br><br>
+    Worldview Development USA · Worldview International Foundation<br><br>
     <a href="https://worldviewusa.org" target="_blank">worldviewusa.org</a>
-    <a href="https://wif.foundation" target="_blank">wif.foundation</a>
-    <a href="https://linkedin.com/in/likitha-sree" target="_blank">LinkedIn</a><br><br>
+    <a href="https://wif.foundation" target="_blank">wif.foundation</a><br><br>
     <span style="color:rgba(245,240,232,0.1);">Data sourced from Verra VCS Registry · Last updated {now}</span>
 </div>""", unsafe_allow_html=True)

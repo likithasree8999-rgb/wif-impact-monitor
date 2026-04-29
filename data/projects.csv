@@ -1,0 +1,8 @@
+project_id,vcs_id,name,region,country,lat,lon,hectares,co2e_million,annual_co2e,people,villages,start_year,end_year,status,description
+P1,1764,Ayeyarwady Mangrove Restoration I,Ayeyarwady Region,Myanmar,16.9,94.9,2065,3.6,184006,11000,16,2015,2035,Active,"Restoring degraded mangrove forests in Magyi, Thabawkan, and Thaegone village tracts"
+P2,2088,Ayeyarwady Mangrove Restoration II,Ayeyarwady Region,Myanmar,16.5,94.7,3387,7.0,403831,33000,35,2020,2040,Active,"Restoring mangroves across 12 village tracts including Chaungtha, Bomie, and Nga Yoke Kaung"
+P3,2792,Ayeyarwady Mangrove Restoration III,Ayeyarwady Region,Myanmar,16.6,94.8,1003,1.4,70285,12500,8,2020,2040,Active,"Conservation of mangrove forests in Chaungtha, Kangyi, and Bomie village tracts"
+P4,3730,Tanintharyi Mangrove Restoration I,Tanintharyi Region,Myanmar,12.5,98.8,1518,2.3,58886,21731,22,2022,2047,Active,"Reviving mangrove forests in Htaung Ka Met, Noet Ngwar, Han Ka Phyu, and Kawt Ba Mar"
+P5,3818,Coastal Regions Mangrove Restoration,Yangon/Bago/Mon Regions,Myanmar,16.8,96.2,3700,5.2,259130,48477,22,2021,2041,Active,"Restoring mangroves across 3 coastal regions covering 22 village tracts"
+P6,5050,Tanintharyi Mangrove Restoration II,Tanintharyi Region,Myanmar,12.4,98.7,5062,6.8,196274,21731,22,2023,2048,Active,"Large-scale restoration of 5062 hectares in Tanintharyi Region"
+P7,,Sarawak Blue Carbon Initiative,Sarawak State,Malaysia,2.5,111.5,2000,0,0,12000,64,2025,2065,In Development,"First phase restoring 2000 hectares in Rajang river delta region"

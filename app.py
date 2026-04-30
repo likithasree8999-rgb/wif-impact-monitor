@@ -184,7 +184,7 @@ if "Global" in page:
         <div class="kpi g1"><div class="ki">🌿</div><div class="kv">16,735+</div><div class="kl">Hectares Restored</div><div class="ks">7 projects · 2 countries</div></div>
         <div class="kpi b1"><div class="ki">💨</div><div class="kv">26.3M</div><div class="kl">Tonnes CO₂e Estimated</div><div class="ks">Total over all crediting periods</div></div>
         <div class="kpi t1"><div class="ki">👥</div><div class="kv">140K+</div><div class="kl">Community Members</div><div class="ks">Across 125+ villages</div></div>
-        <div class="kpi a1"><div class="ki">⏳</div><div class="kv">46</div><div class="kl">Years Experience</div><div class="ks">Global operations since 1979</div></div>
+        <div class="kpi a1"><div class="ki">⏳</div><div class="kv">46</div><div class="kl">Years Community Development</div><div class="ks">Est. 1979 · Not all in mangroves</div></div>
     </div>
     <div class="kg">
         <div class="kpi b1"><div class="ki">📉</div><div class="kv">1.17M</div><div class="kl">Tonnes CO₂e / Year</div><div class="ks">Annual reduction across active projects</div></div>
